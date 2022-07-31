@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1659276324,,"wq"
+|2,0,1659282785,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,20 +25,118 @@
 # Registers:
 
 # File marks:
-'0  2  4  ~/gitfiles/git
-|4,48,2,4,1659276324,"~/gitfiles/git"
-'1  2  27  ~/.git/config
-|4,49,2,27,1659276165,"~/.git/config"
+'0  2  17  ~/gitfiles/git
+|4,48,2,17,1659282785,"~/gitfiles/git"
+'1  1  0  ~/gitfiles/newfile
+|4,49,1,0,1659282339,"~/gitfiles/newfile"
+'2  7  0  ~/.gitignore
+|4,50,7,0,1659276676,"~/.gitignore"
+'3  2  4  ~/gitfiles/git
+|4,51,2,4,1659276324,"~/gitfiles/git"
+'4  2  27  ~/.git/config
+|4,52,2,27,1659276165,"~/.git/config"
 
 # Jumplist (newest first):
+-'  2  17  ~/gitfiles/git
+|4,39,2,17,1659282785,"~/gitfiles/git"
+-'  1  0  ~/gitfiles/newfile
+|4,39,1,0,1659282339,"~/gitfiles/newfile"
+-'  1  0  ~/gitfiles/newfile
+|4,39,1,0,1659282339,"~/gitfiles/newfile"
+-'  7  0  ~/.gitignore
+|4,39,7,0,1659276676,"~/.gitignore"
+-'  7  0  ~/.gitignore
+|4,39,7,0,1659276676,"~/.gitignore"
+-'  7  0  ~/.gitignore
+|4,39,7,0,1659276676,"~/.gitignore"
+-'  7  0  ~/.gitignore
+|4,39,7,0,1659276676,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1659276672,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1659276672,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1659276672,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1659276672,"~/.gitignore"
 -'  2  4  ~/gitfiles/git
 |4,39,2,4,1659276324,"~/gitfiles/git"
+-'  2  4  ~/gitfiles/git
+|4,39,2,4,1659276324,"~/gitfiles/git"
+-'  2  4  ~/gitfiles/git
+|4,39,2,4,1659276324,"~/gitfiles/git"
+-'  2  4  ~/gitfiles/git
+|4,39,2,4,1659276324,"~/gitfiles/git"
+-'  1  0  ~/gitfiles/git
+|4,39,1,0,1659276315,"~/gitfiles/git"
+-'  1  0  ~/gitfiles/git
+|4,39,1,0,1659276315,"~/gitfiles/git"
+-'  1  0  ~/gitfiles/git
+|4,39,1,0,1659276315,"~/gitfiles/git"
+-'  1  0  ~/gitfiles/git
+|4,39,1,0,1659276315,"~/gitfiles/git"
 -'  1  0  ~/gitfiles/git
 |4,39,1,0,1659276315,"~/gitfiles/git"
 -'  2  27  ~/.git/config
 |4,39,2,27,1659276165,"~/.git/config"
 -'  2  27  ~/.git/config
 |4,39,2,27,1659276165,"~/.git/config"
+-'  2  27  ~/.git/config
+|4,39,2,27,1659276165,"~/.git/config"
+-'  2  27  ~/.git/config
+|4,39,2,27,1659276165,"~/.git/config"
+-'  2  27  ~/.git/config
+|4,39,2,27,1659276165,"~/.git/config"
+-'  2  27  ~/.git/config
+|4,39,2,27,1659276165,"~/.git/config"
+-'  2  27  ~/.git/config
+|4,39,2,27,1659276165,"~/.git/config"
+-'  2  27  ~/.git/config
+|4,39,2,27,1659276165,"~/.git/config"
+-'  2  27  ~/.git/config
+|4,39,2,27,1659276165,"~/.git/config"
+-'  2  27  ~/.git/config
+|4,39,2,27,1659276165,"~/.git/config"
+-'  2  27  ~/.git/config
+|4,39,2,27,1659276165,"~/.git/config"
+-'  2  27  ~/.git/config
+|4,39,2,27,1659276165,"~/.git/config"
+-'  2  27  ~/.git/config
+|4,39,2,27,1659276165,"~/.git/config"
+-'  2  27  ~/.git/config
+|4,39,2,27,1659276165,"~/.git/config"
+-'  2  27  ~/.git/config
+|4,39,2,27,1659276165,"~/.git/config"
+-'  2  27  ~/.git/config
+|4,39,2,27,1659276165,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1659275916,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1659275916,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1659275916,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1659275916,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1659275916,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1659275916,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1659275916,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1659275916,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1659275916,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1659275916,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1659275916,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1659275916,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1659275916,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1659275916,"~/.git/config"
 -'  1  0  ~/.git/config
 |4,39,1,0,1659275916,"~/.git/config"
 -'  1  0  ~/.git/config
@@ -47,11 +145,22 @@
 # History of marks within files (newest to oldest):
 
 > ~/gitfiles/git
-	*	1659276323	0
-	"	2	4
-	^	2	5
-	.	2	4
-	+	2	4
+	*	1659282784	0
+	"	2	17
+	^	2	18
+	.	2	17
+	+	2	17
+
+> ~/gitfiles/newfile
+	*	1659282337	0
+	"	1	0
+
+> ~/.gitignore
+	*	1659276675	0
+	"	7	0
+	^	7	0
+	.	6	28
+	+	6	28
 
 > ~/.git/config
 	*	1659276164	0
